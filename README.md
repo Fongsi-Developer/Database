@@ -1,2 +1,2 @@
 # Database
-Database Hanya sekedar tambahan 🗿
+Database Hanya sekedar tambahan 🗿💦
