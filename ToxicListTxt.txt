@@ -31,7 +31,7 @@ lonte
 col(i|mek?)
 pelacur
 henceu?
-f(uck|ack)
+f(uck|ack|uk|ak)
 dick
 bitch
 tits
