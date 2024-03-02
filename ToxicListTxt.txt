@@ -50,4 +50,5 @@ pak y(u|ou)?
 fak y(u|ou)?
 mani
 bakso tanpa tepung
+bakso tanpa tepunh
 sexy
