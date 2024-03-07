@@ -23,7 +23,7 @@ jembut
 bego+
 dajj?al+
 (j|d)anc(u+|o+)k+
-pant(e+)k+
+pant(e+|\*)k+
 puki(mak|lel)?
 kimak+
 kampang
